@@ -1,6 +1,6 @@
 # Jonas
 
-Product lead for software and embedded systems in aerospace and defence. I work across the whole range, from programme strategy to the code and the CI pipeline, and I build my own tools along the way.
+Product lead for software and embedded systems in aerospace and defence. Equally at home discussing Kant and debugging a CI pipeline.
 
 [LinkedIn](https://www.linkedin.com/in/jonas-bannasch/)
 
